@@ -1,3 +1,3 @@
 # Test links
-## http://ballsniffer69.github.io
+## http://ballsniffers.github.io
 ## http://ballsniffer69.com
